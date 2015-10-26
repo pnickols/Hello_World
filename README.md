@@ -1,2 +1,3 @@
 # Hello_World
-Example of Repo System
+Example of Repo System.
+This is test info about myself
